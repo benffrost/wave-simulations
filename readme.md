@@ -41,7 +41,7 @@ Finally, here's a visual comparison with output from a similarly rigorous CPU ba
 <img src="misc/fieldmagout.png" alt="graph2" width="200"/>
 <img src="misc/spectraoffres.png" alt="vis1" width="200"/>
 
-### More Crazy Blowups:
+#### More Fun Blowups:
 
 <img src="blowups/blowup16.png" alt="blowup16" width="200"/>
 <img src="blowups/blowup10.png" alt="blowup10" width="200"/>
