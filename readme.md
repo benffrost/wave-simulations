@@ -33,7 +33,7 @@ Finally, here's a visual comparison with output from a similarly rigorous CPU ba
 #### Basic electrical engineering knowledge:
 
 <img src="misc/servo-mk-1.png" alt="servo1" width="200"/>
-<img src="misc/photo.jpg" alt="servo2" width="200"/>
+<img src="misc/photo.JPG" alt="servo2" width="200"/>
 
 #### Assorted contextless nanophotonics graphs:
 
